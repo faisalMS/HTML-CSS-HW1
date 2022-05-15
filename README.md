@@ -22,7 +22,7 @@ Some starter code is already provided, so you can jump right into it.
 
 ## Instructions
 
-You will be working in the `apple-pie` folder. There you will find all the files, images, and text content needed to create the page. The text is in the `index.html`, and a CSS file is created in `styles/style.css`.
+You will be working in the `apple-pie` folder. There you will find all the files, images, and text content needed to create the page. The text is in the `index.html`, and a CSS file is created `style.css`.
 
 ## Deliverable
 
