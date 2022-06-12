@@ -1,8 +1,6 @@
 # HTML-CSS-HW
 
-## Deliverable
-
-Expected results:
+## Expected results:
 
 
 ![French Onion](https://i.imgur.com/uepu2DO.jpg)
